@@ -1,0 +1,6 @@
+string_type = type("hello world")
+int_type = type(123)
+float_type = type(3.14)
+print(string_type)
+print(int_type)
+print(float_type)
