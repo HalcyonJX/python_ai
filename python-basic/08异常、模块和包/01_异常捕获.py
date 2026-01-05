@@ -40,3 +40,5 @@ except NameError as e:
     print(e)
 else:
     print('没有异常')
+finally:
+    print('无论是否异常，都会执行')
